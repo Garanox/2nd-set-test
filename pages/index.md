@@ -9,4 +9,4 @@ intro_paragraph: >-
   allow="accelerometer; autoplay; encrypted-media; gyroscope;
   picture-in-picture" allowfullscreen></iframe>
 ---
-A nice and short video on how to make a site with netlify.
+A nice and short video on how to make a site with netlify. Head over to the blog tab to see a screen shot step by step of how to set up a site
