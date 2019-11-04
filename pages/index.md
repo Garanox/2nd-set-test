@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Welcome
+title: Video guide to make a nice site with Netlify
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/y5SIHEjSvDc" frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
+A nice and short video on how to make a site with netlify.
