@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Video guide to make a nice site with Netlify
+title: Video guide to make a nice site with Netlify(blog has step by step screens)
 permalink: /
 section: home
 intro_paragraph: >-
